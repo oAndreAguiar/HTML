@@ -1,2 +1,2 @@
 # HTML
-Codigos em HTML estilizados com css
+Codigos em HTML estilizados com CSS
